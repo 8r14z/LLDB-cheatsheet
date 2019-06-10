@@ -15,8 +15,7 @@ let sum = a + b
 (lldb) e <variable> // to print value
 (lldb) e a = 11 // now a will be "11" till the end of debugging session
 ```
-
-#### `(lldb) print <expression>` = `(lldb) p <expression>` = `(lldb) e -- <expression>` = `(lldb) e <expression>`
+> `(lldb) print <expression>` = `(lldb) p <expression>` = `(lldb) e -- <expression>` = `(lldb) e <expression>`
 
 ## Get overall app's state and language specific cmds
 #### `(lldb) bugreport <expression>` = `(lldb) bu <expression>`
