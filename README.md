@@ -17,6 +17,9 @@ let sum = a + b
 ```
 > `(lldb) print <expression>` = `(lldb) p <expression>` = `(lldb) e -- <expression>` = `(lldb) e <expression>`
 
+#### `(lldb) po <expression>`
+#### `(lldb) v <expression>`
+
 ## Get overall app's state and language specific cmds
 #### `(lldb) bugreport <expression>` = `(lldb) bu <expression>`
 Generate a full report of current app's state. It could be helpful when encountering some problem and want to tackle it later.
