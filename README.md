@@ -73,6 +73,7 @@ Commands for operating on one or more threads in the current process.
 * [LLDB Quick Start Guide - Apple](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/Introduction.html#//apple_ref/doc/uid/TP40012917-CH1-SW1)
 * [Advanced Debugging with Xcode and LLDB - WWDC2018](https://developer.apple.com/videos/play/wwdc2018/412/) 
 * [LLDB: Beyond "po" - WWDC2019](https://developer.apple.com/videos/play/wwdc2019/429/)
+* [Understanding Crashes and Crash Logs](https://developer.apple.com/videos/play/wwdc2018/414/)
 
 
 
